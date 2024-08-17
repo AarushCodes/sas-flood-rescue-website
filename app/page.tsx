@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { TracingBeamDemo } from "./beam";
+// import { TracingBeamDemo } from "./beam";
 import { GoogleGeminiEffectDemo } from "./geminieffect";
 import { MacbookScrollDemo } from "./macbookscroll";
 import { ThreeDCardDemo } from "./threadcard";
